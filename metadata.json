@@ -1,0 +1,5 @@
+{
+  "name": "VitalScan Health Monitor",
+  "description": "A professional digital health monitoring system that analyzes vital signs and provides personalized health reports.",
+  "requestFramePermissions": ["microphone"]
+}
